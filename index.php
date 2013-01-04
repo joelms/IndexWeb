@@ -22,10 +22,6 @@
 
           </center>
         </td>
-<!--        <td rowspan="2">
-        <iframe title="" height="167"	 width="175" src="http://joel7.com/bethelTv.php" frameborder="0" marginheight="0" marginwidth="0"  allowfullscreen></iframe>
-
-        </td>-->
       </tr>
       <tr>
         <td height="20"  valign="top">
