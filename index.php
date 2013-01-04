@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html  dir="ltr" lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-        <link rel="openid.server" href="http://joel7.myopenid.com/"/>
+
         <link rel="openid.delegate" href="http://joel7.com/"/>
     <title>Aula Virtual</title>
     <link rel="shortcut icon" href="http://joel7.com/aulavirtual/theme/image.php?theme=darkb&amp;image=favicon&amp;rev=199&amp;component=theme" />
